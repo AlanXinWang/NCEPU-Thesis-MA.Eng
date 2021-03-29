@@ -1,7 +1,7 @@
 # NCEPU-Thesis-MA.Eng
 LaTeX/Word 两种格式的华北电力大学硕士论文模板，适用于工学硕士毕业论文。
 
-**附赠百度网盘下载链接
+**附赠百度网盘下载链接**
 
 链接：https://pan.baidu.com/s/16vxnJ63fid56GwRqp6bIKw 
 提取码：1l7u 
